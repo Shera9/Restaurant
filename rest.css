@@ -3,7 +3,7 @@
     background-size: contain;
 }
 .top_menu{
-    background-image: url(Images/hero-img.jpg);
+    background-image: url(hero-img.jpg);
     background-size: cover;
     background-position: center;
     height: 100vh;
@@ -31,7 +31,7 @@ h1,h2,h3{
 }
 .cheff{
     margin-top: 15%;
-    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(Images/chef-recommended-img.jpg);
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(chef-recommended-img.jpg);
     background-size:cover;
     background-position:center;
     background-repeat: no-repeat;
@@ -40,7 +40,7 @@ h1,h2,h3{
 }
 .dishes{
     margin-top: 10%;
-    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(Images/popular-dishes-img.jpg);
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(popular-dishes-img.jpg);
     background-size: cover;
     background-position: top;
     background-repeat: no-repeat;
@@ -53,7 +53,7 @@ h1,h2,h3{
 .clients{
     padding: 4% 0%;
     margin-top: 6%;
-    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(Images/testimonials-bg.jpg);
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(testimonials-bg.jpg);
     background-size: cover;
     background-position:center;
     background-repeat: no-repeat;
@@ -69,7 +69,7 @@ h1,h2,h3{
 }
 .footer{
     padding: 6.5% 0%;
-    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(Images/footer-bg.jpg);
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(footer-bg.jpg);
     background-size: cover;
     background-position: bottom;
     background-repeat: no-repeat;
